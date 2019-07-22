@@ -28,13 +28,13 @@
 
 ### Contributors
 
-<b><code>beanoder</code></b> is proudly brought to you by the following hackers:
+<b><code>learnyounode</code></b> is proudly brought to you by the following hackers:
 
 <table><tbody>
-<tr><th align="left">Aadithyan Rajesh</th><td><a href="https://github.com/theaadithyan</a></td><td><a href="http://twitter.com/theaadithyan">Twitter/@theaadithyan</a></td></tr>
+<tr><th align="left">Aadithyan Rajesh</th><td>Github<a href="https://github.com/theaadithyan</a></td><td><a href="http://twitter.com/theaadithyan">Twitter/@theaadithyan</a></td></tr>
 </tbody></table>
 
 ## License
 
-**beanoder** is Copyright (c) 2013-2015 learnyounode contributors (listed above) and licenced under the MIT licence. All rights not explicitly granted in the MIT license are reserved. See the included LICENSE.md file for more details.
+**learnyounode** is Copyright (c) 2013-2015 learnyounode contributors (listed above) and licenced under the MIT licence. All rights not explicitly granted in the MIT license are reserved. See the included LICENSE.md file for more details.
 
