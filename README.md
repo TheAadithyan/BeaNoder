@@ -24,11 +24,11 @@
 
 <b><code>learnyounode</code></b> will run through a series of Node.js workshops. Starting at a basic *"HELLO WORLD"* and moving on to more advanced exercises about dealing with synchronous & asynchronous I/O, filesystem operations, TCP and HTTP networking, events and streams.
 
-Once you have finished <b><code>learnyounode</code></b>, graduate to <b><code>[stream-adventure](https://github.com/substack/stream-adventure)</code></b> for a set of exercises that dig in to Node's streams.
+
 
 ### Contributors
 
-<b><code>learnyounode</code></b> is proudly brought to you by the following hackers:
+<b><code>beanoder</code></b> is proudly brought to you by the following hackers:
 
 <table><tbody>
 <tr><th align="left">Aadithyan Rajesh</th><td><a href="https://github.com/theaadithyan</a></td><td><a href="http://twitter.com/theaadithyan">Twitter/@theaadithyan</a></td></tr>
@@ -36,6 +36,5 @@ Once you have finished <b><code>learnyounode</code></b>, graduate to <b><code>[s
 
 ## License
 
-**learnyounode** is Copyright (c) 2013-2015 learnyounode contributors (listed above) and licenced under the MIT licence. All rights not explicitly granted in the MIT license are reserved. See the included LICENSE.md file for more details.
+**beanoder** is Copyright (c) 2013-2015 learnyounode contributors (listed above) and licenced under the MIT licence. All rights not explicitly granted in the MIT license are reserved. See the included LICENSE.md file for more details.
 
-**learnyounode** builds on the excellent work by [@substack](https://github.com/substack) and [@maxogden](https://github.com/maxogden) who created **[stream-adventure](https://github.com/substack/stream-adventure)** which serves as the original foundation for **learnyounode**.
